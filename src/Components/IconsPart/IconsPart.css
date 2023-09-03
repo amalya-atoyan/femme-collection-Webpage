@@ -1,0 +1,24 @@
+.SectionPart_three{
+    position: relative;
+}
+
+.iconsPart{
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    position: absolute;
+    top: 110px;
+    left: 1650px;
+}
+
+svg{
+    padding: 6px;
+    cursor: pointer;
+}
+
+.iconsPart svg:hover{
+    color:#C4B3A3;
+    transition: 1s;
+    transform: scale(1.3);
+}
+

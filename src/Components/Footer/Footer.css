@@ -1,0 +1,29 @@
+footer{
+    height: 180px;
+}
+
+.map{
+    width: 1400px;
+    height: 500px;
+    margin-left: 250px;
+    margin-bottom: 90px;
+}
+
+.footerPart{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.contact span{
+    font-size: 20px;
+    letter-spacing: 3px;
+    font-weight: bolder;
+    cursor: pointer;
+    margin-left: 40px;
+}
+
+.contact span:hover{
+    color: #C4B3A3;
+    transition: 1s;
+}

@@ -1,0 +1,13 @@
+.aboutCompany1{
+    width: 830px;
+    font-size: 25px;
+    line-height: 40px;
+    letter-spacing: 5px;
+    margin: 80px auto;
+    padding: 20px;
+    border: 4px #C4B3A3 solid;
+    border-radius: 10px;
+    position: absolute;
+    top: 20px;
+    left: 600px;
+}

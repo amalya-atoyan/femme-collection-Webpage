@@ -1,0 +1,16 @@
+.nav{
+    height: 90px;
+    background-color: #C4B3A3;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+.lists ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    margin: 20px;
+}

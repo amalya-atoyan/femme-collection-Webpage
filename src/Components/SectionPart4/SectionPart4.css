@@ -1,0 +1,23 @@
+.section4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 800px;
+    gap: 20px;
+    position: relative;
+}
+
+.btnMore{
+    position: absolute;
+    top: 700px;
+    left: 1600px;
+    font-size: 20px;
+    font-weight: bolder;
+    color: whitesmoke;
+    padding: 10px 20px;
+    border: 2px solid white;
+    border-radius: 20px;
+    background-color:rgba(0, 0, 0, 0.653);
+    cursor: pointer;
+
+}

@@ -1,0 +1,21 @@
+
+.customFlex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 4px #C4B3A3 solid;
+    border-radius: 10px;
+    height: 400px;
+}
+.aboutUs{
+    width: 250px;
+    padding: 20px 40px;
+    line-height: 20px;
+}
+
+.customPhoto{
+    width: 200px;
+    height: 250px;
+    border-radius: 50%;
+    padding: 20px ;
+}

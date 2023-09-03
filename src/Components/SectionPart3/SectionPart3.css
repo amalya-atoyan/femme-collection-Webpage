@@ -1,0 +1,26 @@
+.section3{
+    height: 1200px;
+    padding-top: 25px;
+    position: relative;
+    display: grid;
+    grid-template-areas: 6;
+}
+
+.secFlex{
+    display:flex;
+    justify-content: center;
+}
+
+.moreJw{
+    position: absolute;
+    top: 1100px;
+    left: 1600px;
+    font-size: 20px;
+    font-weight: bolder;
+    color: whitesmoke;
+    padding: 10px 20px;
+    border: 2px solid white;
+    border-radius: 20px;
+    background-color:rgba(0, 0, 0, 0.653);
+    cursor: pointer;
+}

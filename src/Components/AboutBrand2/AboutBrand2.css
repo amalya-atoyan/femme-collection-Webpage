@@ -1,0 +1,50 @@
+.aboutCompany2{
+    width: 400px;
+    font-size: 25px;
+    line-height: 40px;
+    letter-spacing: 5px;
+    margin: 80px 40px;
+    padding: 20px;
+    border: 4px #C4B3A3 solid;
+    border-radius: 10px;
+    position: absolute;
+    top:500px;
+    left: 300px;
+}
+
+.aboutCompany3{
+    width: 400px;
+    font-size: 25px;
+    line-height: 40px;
+    letter-spacing: 5px;
+    margin: 80px 120px;
+    padding: 20px;
+    border: 4px #C4B3A3 solid;
+    border-radius: 10px;
+    position: absolute;
+    top: 500px;
+    left: 750px;
+}
+
+.salonAm{
+    width: 330px;
+    height: 250px;
+    position: absolute;
+    top: 820px;
+    left: 720px;
+    border: 4px #C4B3A3 solid;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.salonV{
+    width: 350px;
+    height: 250px;
+    position: absolute;
+    top: 820px;
+    left: 1300px;
+    border: 4px #C4B3A3 solid;
+    padding: 10px;
+    border-radius: 10px;
+
+}

@@ -1,0 +1,18 @@
+.section1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 20px;
+    gap: 30px;
+    position: relative;
+}
+.cursor{
+    position: fixed;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color:#C4B3A3 ;
+    top: 850px;
+    left:1750px;
+    cursor: pointer;
+}
